@@ -1,6 +1,6 @@
-<mxfile host="Electron" modified="2023-11-25T08:06:28.503Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.2 Chrome/114.0.5735.289 Electron/25.9.4 Safari/537.36" etag="U9IMEorsOigA48ZugtD7" version="22.1.2" type="device">
+<mxfile host="Electron" modified="2023-11-25T10:19:42.797Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.2 Chrome/114.0.5735.289 Electron/25.9.4 Safari/537.36" etag="nzg6jjDXM6xTRbwiu0WM" version="22.1.2" type="device">
   <diagram name="Page-1" id="Lh9eqn2souIJ1SXI8V-k">
-    <mxGraphModel dx="-134" dy="4122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="-553" dy="3744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -21,7 +21,7 @@
         <mxCell id="HIK_TUY2q3alN_riLtZ8-5" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="2601.29" y="-2265" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HIK_TUY2q3alN_riLtZ8-6" value="0" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="HIK_TUY2q3alN_riLtZ8-6" value="2d" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="2551.29" y="-2220" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HIK_TUY2q3alN_riLtZ8-7" value="0" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -36,7 +36,7 @@
         <mxCell id="HIK_TUY2q3alN_riLtZ8-11" value="2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="2601.29" y="-2030" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HIK_TUY2q3alN_riLtZ8-12" value="0" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="HIK_TUY2q3alN_riLtZ8-12" value="2d" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="2551.29" y="-1985" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HIK_TUY2q3alN_riLtZ8-13" value="0" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -66,7 +66,7 @@
         <mxCell id="HIK_TUY2q3alN_riLtZ8-34" value="3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="2070" y="-2265" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HIK_TUY2q3alN_riLtZ8-35" value="0" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="HIK_TUY2q3alN_riLtZ8-35" value="3d" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="2020" y="-2220" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HIK_TUY2q3alN_riLtZ8-36" value="0" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -178,7 +178,7 @@
             <mxPoint x="750" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HIK_TUY2q3alN_riLtZ8-118" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Xác định các nhu cầu&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;của khách hàng = 3d&lt;br&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;+2d wait for resrc&lt;br&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="HIK_TUY2q3alN_riLtZ8-117" vertex="1" connectable="0">
+        <mxCell id="HIK_TUY2q3alN_riLtZ8-118" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Xác định các nhu cầu&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;của khách hàng = 3d&lt;/font&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="HIK_TUY2q3alN_riLtZ8-117" vertex="1" connectable="0">
           <mxGeometry x="0.04" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -571,7 +571,7 @@
         <mxCell id="HIK_TUY2q3alN_riLtZ8-233" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.or;" parent="1" vertex="1">
           <mxGeometry x="2859.35" y="455.95000000000005" width="160" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="HIK_TUY2q3alN_riLtZ8-234" value="22" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="HIK_TUY2q3alN_riLtZ8-234" value="0" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="2909.35" y="465.95000000000005" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HIK_TUY2q3alN_riLtZ8-235" value="0" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -586,7 +586,7 @@
         <mxCell id="HIK_TUY2q3alN_riLtZ8-238" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.or;" parent="1" vertex="1">
           <mxGeometry x="3149.35" y="230.28999999999996" width="160" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="HIK_TUY2q3alN_riLtZ8-239" value="23" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="HIK_TUY2q3alN_riLtZ8-239" value="21" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="3199.35" y="250.28999999999996" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="HIK_TUY2q3alN_riLtZ8-240" value="0" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -653,7 +653,7 @@
         <mxCell id="HIK_TUY2q3alN_riLtZ8-251" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.or;" parent="1" vertex="1">
           <mxGeometry x="3000.64" y="690.29" width="160" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="HIK_TUY2q3alN_riLtZ8-252" value="24" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="HIK_TUY2q3alN_riLtZ8-252" value="0" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="3050.64" y="710.29" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HIK_TUY2q3alN_riLtZ8-253" value="0" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -668,7 +668,7 @@
         <mxCell id="HIK_TUY2q3alN_riLtZ8-261" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.or;" parent="1" vertex="1">
           <mxGeometry x="3149.35" y="455.95000000000005" width="160" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="HIK_TUY2q3alN_riLtZ8-262" value="25" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="HIK_TUY2q3alN_riLtZ8-262" value="0" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="3199.35" y="475.95000000000005" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HIK_TUY2q3alN_riLtZ8-263" value="0" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -683,7 +683,7 @@
         <mxCell id="HIK_TUY2q3alN_riLtZ8-266" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.or;" parent="1" vertex="1">
           <mxGeometry x="3429.35" y="465.95" width="160" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="HIK_TUY2q3alN_riLtZ8-267" value="26" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="HIK_TUY2q3alN_riLtZ8-267" value="0" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="3479.35" y="485.95" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HIK_TUY2q3alN_riLtZ8-268" value="0" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -731,7 +731,7 @@
         <mxCell id="HIK_TUY2q3alN_riLtZ8-277" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.or;" parent="1" vertex="1">
           <mxGeometry x="3289.3500000000004" y="690.29" width="160" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="HIK_TUY2q3alN_riLtZ8-278" value="27" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="HIK_TUY2q3alN_riLtZ8-278" value="0" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="3339.3500000000004" y="710.29" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HIK_TUY2q3alN_riLtZ8-279" value="0" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -746,7 +746,7 @@
         <mxCell id="HIK_TUY2q3alN_riLtZ8-282" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.or;" parent="1" vertex="1">
           <mxGeometry x="3589.35" y="690.29" width="160" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="HIK_TUY2q3alN_riLtZ8-283" value="28" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="HIK_TUY2q3alN_riLtZ8-283" value="0" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="3639.35" y="710.29" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HIK_TUY2q3alN_riLtZ8-284" value="0" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
